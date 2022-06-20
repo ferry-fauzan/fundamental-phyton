@@ -1,0 +1,3 @@
+Ini dbuat dengan text phyton
+Ini dibaris kedua
+baris ini dibuat dengan mode append

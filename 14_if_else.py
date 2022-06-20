@@ -1,8 +1,5 @@
 #if else cuy
 
-from tkinter.simpledialog import askstring
-
-
 password=input('Paswordnya apa nih: ')
 print(password)
 
